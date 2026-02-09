@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "tendeu_task2",
+    "slug": "snack-eb64cda3-88db-4e69-ba24-e04ea2fedcf7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
